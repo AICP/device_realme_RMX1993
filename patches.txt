@@ -1,7 +1,5 @@
-# Build own camera service
-101034/1 http://gerrit.aicp-rom.com vendor/aicp
-
 # FOC cleanup
+103677/1 http://gerrit.aicp-rom.com frameworks/base
 103137/1 http://gerrit.aicp-rom.com frameworks/base
 103138/1 http://gerrit.aicp-rom.com frameworks/base
 103139/1 http://gerrit.aicp-rom.com frameworks/base
