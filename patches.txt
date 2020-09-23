@@ -1,4 +1,4 @@
-# FOC cleanup
+# FOD cleanup
 103677/1 http://gerrit.aicp-rom.com frameworks/base
 103137/1 http://gerrit.aicp-rom.com frameworks/base
 103138/1 http://gerrit.aicp-rom.com frameworks/base
@@ -19,3 +19,6 @@
 103153/1 http://gerrit.aicp-rom.com frameworks/base
 102984/3 http://gerrit.aicp-rom.com frameworks/base
 103154/1 http://gerrit.aicp-rom.com frameworks/base
+
+# Reset APNs
+103891/1 http://gerrit.aicp-rom.com vendor/aicp
